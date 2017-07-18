@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Mapbox/Examples/Voxels/Scenes/VoxelWorld.unity
+  isLoaded: 1
+  isActive: 1
